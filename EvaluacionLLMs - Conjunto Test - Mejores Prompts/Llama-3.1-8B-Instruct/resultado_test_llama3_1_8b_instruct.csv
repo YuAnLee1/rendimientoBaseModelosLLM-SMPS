@@ -1,0 +1,2 @@
+modelo,modelo_short,prompt_id,accuracy,macro_f1,precision_negative,recall_negative,f1_negative,precision_neutral,recall_neutral,f1_neutral,precision_positive,recall_positive,f1_positive,pct_invalidos
+meta-llama/Llama-3.1-8B-Instruct,llama3_1_8b_instruct,1,0.6433,0.5283,0.7966,0.7018,0.7462,0.725,0.0915,0.1625,0.5313,0.9304,0.6764,0.0

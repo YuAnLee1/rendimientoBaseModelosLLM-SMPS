@@ -1,0 +1,2 @@
+modelo,prompt_id,seed,max_new_tokens,temperature,do_sample,n_ejemplos,tiempo_total_seg,tiempo_promedio_por_ejemplo_seg,memoria_pico_gb
+meta-llama/Llama-3.1-8B-Instruct,1,42,10,0.0,False,1455,374.0,0.257,16.24

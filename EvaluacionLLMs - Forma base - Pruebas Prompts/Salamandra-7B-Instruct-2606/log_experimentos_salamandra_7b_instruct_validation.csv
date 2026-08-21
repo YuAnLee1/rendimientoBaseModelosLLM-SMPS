@@ -1,0 +1,6 @@
+modelo,prompt_id,seed,max_new_tokens,temperature,do_sample,n_ejemplos,tiempo_total_seg,tiempo_promedio_por_ejemplo_seg,memoria_pico_gb
+BSC-LT/salamandra-7b-instruct-2606,1,42,10,0.0,False,1454,229.3,0.158,16.0
+BSC-LT/salamandra-7b-instruct-2606,2,42,10,0.0,False,1454,872.8,0.6,16.0
+BSC-LT/salamandra-7b-instruct-2606,3,42,10,0.0,False,1454,553.1,0.38,16.0
+BSC-LT/salamandra-7b-instruct-2606,4,42,10,0.0,False,1454,237.8,0.164,16.0
+BSC-LT/salamandra-7b-instruct-2606,5,42,10,0.0,False,1454,214.1,0.147,16.01

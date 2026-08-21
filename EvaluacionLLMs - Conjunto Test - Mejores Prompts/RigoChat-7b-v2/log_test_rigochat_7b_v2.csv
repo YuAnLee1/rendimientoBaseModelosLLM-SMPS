@@ -1,0 +1,2 @@
+modelo,prompt_id,seed,max_new_tokens,temperature,do_sample,n_ejemplos,tiempo_total_seg,tiempo_promedio_por_ejemplo_seg,memoria_pico_gb
+IIC/RigoChat-7b-v2,4,42,10,0.0,False,1455,283.3,0.195,15.37

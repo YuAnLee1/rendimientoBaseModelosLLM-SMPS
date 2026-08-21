@@ -1,0 +1,2 @@
+modelo,modelo_short,prompt_id,accuracy,macro_f1,precision_negative,recall_negative,f1_negative,precision_neutral,recall_neutral,f1_neutral,precision_positive,recall_positive,f1_positive,pct_invalidos
+google/gemma-4-12B-it,gemma4_12b_it,1,0.7038,0.6329,0.8391,0.762,0.7987,0.5519,0.2681,0.3609,0.6203,0.9135,0.7389,0.0

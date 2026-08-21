@@ -1,0 +1,2 @@
+modelo,prompt_id,seed,max_new_tokens,temperature,do_sample,n_ejemplos,tiempo_total_seg,tiempo_promedio_por_ejemplo_seg,memoria_pico_gb
+BSC-LT/salamandra-7b-instruct-2606,2,42,10,0.0,False,1455,867.6,0.596,15.68

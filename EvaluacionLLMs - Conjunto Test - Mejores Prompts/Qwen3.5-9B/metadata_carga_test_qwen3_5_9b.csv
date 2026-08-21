@@ -1,0 +1,2 @@
+modelo,model_type,prompt_id,gpu,tiempo_carga_modelo_seg,memoria_carga_modelo_gb,transformers_version,torch_version
+Qwen/Qwen3.5-9B,multimodal,4,NVIDIA L4,79.6,18.82,5.10.4,2.11.0+cu128

@@ -1,0 +1,6 @@
+modelo,prompt_id,seed,max_new_tokens,temperature,do_sample,n_ejemplos,tiempo_total_seg,tiempo_promedio_por_ejemplo_seg,memoria_pico_gb
+google/gemma-4-12B-it,1,42,10,0.0,False,1454,379.5,0.261,24.82
+google/gemma-4-12B-it,2,42,10,0.0,False,1454,422.6,0.291,24.82
+google/gemma-4-12B-it,3,42,10,0.0,False,1454,408.5,0.281,24.82
+google/gemma-4-12B-it,4,42,10,0.0,False,1454,388.2,0.267,24.83
+google/gemma-4-12B-it,5,42,10,0.0,False,1454,381.5,0.262,24.83

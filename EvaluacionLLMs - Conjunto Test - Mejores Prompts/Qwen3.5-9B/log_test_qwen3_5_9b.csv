@@ -1,0 +1,2 @@
+modelo,prompt_id,seed,max_new_tokens,temperature,do_sample,n_ejemplos,tiempo_total_seg,tiempo_promedio_por_ejemplo_seg,memoria_pico_gb
+Qwen/Qwen3.5-9B,4,42,10,0.0,False,1455,817.8,0.562,19.0

@@ -1,0 +1,2 @@
+modelo,model_type,prompt_id,gpu,tiempo_carga_modelo_seg,memoria_carga_modelo_gb,transformers_version,torch_version
+BSC-LT/salamandra-7b-instruct-2606,causal_lm,2,NVIDIA L4,67.1,15.54,5.13.1,2.11.0+cu128

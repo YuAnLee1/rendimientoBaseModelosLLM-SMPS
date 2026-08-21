@@ -1,0 +1,6 @@
+modelo,prompt_id,seed,max_new_tokens,temperature,do_sample,n_ejemplos,tiempo_total_seg,tiempo_promedio_por_ejemplo_seg,memoria_pico_gb
+utter-project/EuroLLM-9B-Instruct,1,42,10,0.0,False,1454,374.0,0.257,18.98
+utter-project/EuroLLM-9B-Instruct,2,42,10,0.0,False,1454,1098.7,0.756,18.98
+utter-project/EuroLLM-9B-Instruct,3,42,10,0.0,False,1454,583.8,0.402,18.98
+utter-project/EuroLLM-9B-Instruct,4,42,10,0.0,False,1454,369.1,0.254,18.98
+utter-project/EuroLLM-9B-Instruct,5,42,10,0.0,False,1454,369.1,0.254,18.98

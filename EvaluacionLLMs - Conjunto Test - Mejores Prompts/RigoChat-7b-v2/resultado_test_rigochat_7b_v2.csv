@@ -1,0 +1,2 @@
+modelo,modelo_short,prompt_id,accuracy,macro_f1,precision_negative,recall_negative,f1_negative,precision_neutral,recall_neutral,f1_neutral,precision_positive,recall_positive,f1_positive,pct_invalidos
+IIC/RigoChat-7b-v2,rigochat_7b_v2,4,0.6529,0.5998,0.8661,0.6235,0.725,0.5281,0.2965,0.3798,0.5532,0.9325,0.6944,0.0

@@ -1,0 +1,2 @@
+modelo,modelo_short,prompt_id,accuracy,macro_f1,precision_negative,recall_negative,f1_negative,precision_neutral,recall_neutral,f1_neutral,precision_positive,recall_positive,f1_positive,pct_invalidos
+utter-project/EuroLLM-9B-Instruct,eurollm_9b_instruct,3,0.6729,0.5036,0.7349,0.8599,0.7925,0.0,0.0,0.0,0.6163,0.8608,0.7183,1.1

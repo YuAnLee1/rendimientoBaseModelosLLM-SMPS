@@ -1,0 +1,2 @@
+modelo,model_type,prompt_id,gpu,tiempo_carga_modelo_seg,memoria_carga_modelo_gb,transformers_version,torch_version
+meta-llama/Llama-3.1-8B-Instruct,causal_lm,1,NVIDIA L4,68.3,16.06,5.13.1,2.11.0+cu128

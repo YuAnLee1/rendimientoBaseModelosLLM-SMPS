@@ -1,0 +1,2 @@
+modelo,modelo_short,prompt_id,accuracy,macro_f1,precision_negative,recall_negative,f1_negative,precision_neutral,recall_neutral,f1_neutral,precision_positive,recall_positive,f1_positive,pct_invalidos
+Qwen/Qwen3.5-9B,qwen3_5_9b,4,0.6564,0.6079,0.8525,0.6265,0.7222,0.5642,0.3186,0.4073,0.5558,0.9241,0.6941,0.0

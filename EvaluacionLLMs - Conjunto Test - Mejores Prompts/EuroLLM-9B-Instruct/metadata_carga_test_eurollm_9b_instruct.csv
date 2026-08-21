@@ -1,0 +1,2 @@
+modelo,model_type,prompt_id,gpu,tiempo_carga_modelo_seg,memoria_carga_modelo_gb,transformers_version,torch_version
+utter-project/EuroLLM-9B-Instruct,causal_lm,3,NVIDIA L4,70.9,18.3,5.13.1,2.11.0+cu128

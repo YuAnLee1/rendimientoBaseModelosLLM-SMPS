@@ -1,0 +1,6 @@
+modelo,prompt_id,seed,max_new_tokens,temperature,do_sample,n_ejemplos,tiempo_total_seg,tiempo_promedio_por_ejemplo_seg,memoria_pico_gb,gpu,tiempo_carga_modelo_seg,memoria_carga_modelo_gb,transformers_version,torch_version
+Qwen/Qwen3.5-9B,1,42,10,0.0,False,1454,841.3,0.579,19.34,NVIDIA L4,75.5,18.83,5.10.4,2.13.0+cu130
+Qwen/Qwen3.5-9B,2,42,10,0.0,False,1454,839.1,0.577,19.36,NVIDIA L4,75.5,18.83,5.10.4,2.13.0+cu130
+Qwen/Qwen3.5-9B,3,42,10,0.0,False,1454,836.2,0.575,19.34,NVIDIA L4,75.5,18.83,5.10.4,2.13.0+cu130
+Qwen/Qwen3.5-9B,4,42,10,0.0,False,1454,838.3,0.577,19.36,NVIDIA L4,75.5,18.83,5.10.4,2.13.0+cu130
+Qwen/Qwen3.5-9B,5,42,10,0.0,False,1454,852.4,0.586,19.37,NVIDIA L4,75.5,18.83,5.10.4,2.13.0+cu130
