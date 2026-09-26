@@ -1,0 +1,15 @@
+# Entorno de ejecución: Google Colab (Python 3, GPU NVIDIA L4 / A100)
+# Versiones registradas en los metadatos de los cuadernos de evaluación.
+torch==2.11.0            # build cu128 (CUDA 12.8)
+transformers==5.13.1     # Qwen3.5-9B se evaluó con transformers==5.10.4 (ver README)
+accelerate
+kernels==0.10.3          # instalado en los cuadernos de Qwen3.5-9B
+huggingface_hub
+datasets
+pyarrow
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
